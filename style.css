@@ -34,4 +34,5 @@ body {
     font-size: 24px;
     margin-top: 16px;
     padding: 0.5em 1em;
+    cursor: pointer;
 }
