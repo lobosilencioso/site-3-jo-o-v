@@ -35,7 +35,10 @@ body {
     margin-top: 16px;
     padding: 0.5em 1em;
     cursor: pointer;
-    transition: 0.3s;]
+    transition: 0.3s;
     width: 100%;
-    
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid var(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top: none;
 }
