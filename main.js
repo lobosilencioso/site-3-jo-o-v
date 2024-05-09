@@ -29,7 +29,7 @@ for (let i = 0; i < contadores.length; i++) {
 }
 }
 
-function comecaCronometro(){
+function comecaCronometro(){ 
 atualizaCronometro ();
 setInterval(atualizaCronometro, 1000);
 }
